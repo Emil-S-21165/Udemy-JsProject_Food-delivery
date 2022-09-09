@@ -19,11 +19,11 @@
 Для запуска проекта необходимо установить локальный сервер LAMP, MAMP, OpenServer и т.п.
 
 команды для запуска:
-npm install
-json-server db.json
+$ npm install
+$ json-server db.json
 
 в другом терминале:
-npx webpack
+$ npx webpack
 
 -----------------------------------------------------------------------------------------
 
@@ -49,8 +49,8 @@ The following functionalities was implemented in this JS project:
 To run the project you need to install a local server LAMP, MAMP, OpenServer, etc.
 
 To start the project:
-npm install
-json-server db.json
+$ npm install
+$ json-server db.json
 
 in other terminal:
-npx webpack
+$ npx webpack
