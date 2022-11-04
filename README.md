@@ -1,10 +1,10 @@
 Пет-проект - сервис по выбору стиля питания,  заказа питания и расчета калорий.
 
-Этот проект был сделан в рамках курса по JS на Udemy( https://www.udemy.com/course/javascript_full/ ) 
+Этот проект был сделан на чистом JavaScript в рамках курса по JS на Udemy( https://www.udemy.com/course/javascript_full/ ) 
 
-Статическая версия сайта (без отправки данных на сервер) доступна по ссылке -- https://emil-s-21165.github.io/Udemy-jsProject_Food-delivery/ 
+Проект сделан с отправкой и получением данных с сервера, однако по данной ссылке доступна только статическая версия сайта (без отправки данных на сервер) -- https://emil-s-21165.github.io/Udemy-jsProject_Food-delivery/ 
 
-В данном JS проекте были реализованы следующие функциональности:
+В данном JavaScript проекте были реализованы следующие функциональности:
 - переключение табов "выбор стиля питания", а точнее переключение изображений с описанием  меню.
 - запуск функции таймера для промоакций.
 - создание модального окна для формы заказа, появление окна автоматически через определенное время или при прокрутки до конца страницы.
@@ -29,7 +29,7 @@ $ npx webpack
 
 Pet-project is a service for choosing food style, ordering meals and calculating calories.
 
-This project was made as part of a JS course on Udemy( https://www.udemy.com/course/javascript_full/ ) 
+This JavaScript project was made as part of a JS course on Udemy( https://www.udemy.com/course/javascript_full/ ) 
 
 The static version of the site (without sending data to the server) is available 
  at the link -- https://emil-s-21165.github.io/Udemy-jsProject_Food-delivery/ 
