@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     tabs('.tabheader__item', '.tabcontent', '.tabheader__items', 'tabheader__item_active');
     modal('[data-modal]', '.modal', modalTimerId);
-    timer('.timer', '2022-11-20');
+    timer('.timer', '2022-12-31');
     cards();
     forms(modalTimerId);
     slider({
@@ -28,3 +28,4 @@ window.addEventListener('DOMContentLoaded', () => {
     });
     calc();
 });
+
