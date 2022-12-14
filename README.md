@@ -2,12 +2,7 @@
 
 Этот проект был сделан на чистом JavaScript в рамках курса по JS на Udemy( https://www.udemy.com/course/javascript_full/ ) 
 
-<<<<<<< HEAD
-Статическая версия сайта (без отправки данных на сервер) доступна по ссылке --  https://pet-project-js-food-delivery.vercel.app/
- 
-=======
-Проект сделан с отправкой и получением данных с сервера, однако по данной ссылке доступна только статическая версия сайта (без отправки данных на сервер) -- https://pet-project-js-food-delivery.vercel.app/
->>>>>>> cc9d42573416b1f928f0be6d763970823c578728
+Проект сделан с отправкой и получением данных с сервера, однако по данной ссылке доступна только статическая версия сайта (без отправки данных на сервер)   https://pet-project-js-food-delivery.vercel.app/
 
 В данном JavaScript проекте были реализованы следующие функциональности:
 - переключение табов "выбор стиля питания", а точнее переключение изображений с описанием  меню.
@@ -37,12 +32,8 @@ Pet-project is a service for choosing food style, ordering meals and calculating
 This JavaScript project was made as part of a JS course on Udemy( https://www.udemy.com/course/javascript_full/ ) 
 
 The static version of the site (without sending data to the server) is available 
-<<<<<<< HEAD
- at the link --  https://pet-project-js-food-delivery.vercel.app/
 
-=======
- at the link -- https://pet-project-js-food-delivery.vercel.app/ 
->>>>>>> cc9d42573416b1f928f0be6d763970823c578728
+ at the link --  https://pet-project-js-food-delivery.vercel.app/
 
 The following functionalities was implemented in this JS project:
 - switching the "food style selection" tabs, more specifically switching the images with the menu description.
